@@ -109,8 +109,9 @@ p {
 
 /* Press */
 #press {
-  background-color: #ef8172;
+  background-color: #fff;
   padding-bottom: 3%;
+  padding-top: 5%;
 }
 
 .press-logo {
